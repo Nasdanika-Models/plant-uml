@@ -4,7 +4,7 @@ import org.nasdanika.models.plantuml.capability.PlantumlEPackageResourceSetCapab
 import org.nasdanika.models.plantuml.capability.PlantumlResourceContentsHandlerCapabilityFactory;
 import org.nasdanika.models.plantuml.capability.PlantumlResourceFactoryCapabilityFactory;
 
-module org.nasdanika.models.plantuml.Plantuml {
+module org.nasdanika.models.plantuml {
 	
 	exports org.nasdanika.models.plantuml;
 	exports org.nasdanika.models.plantuml.impl;
