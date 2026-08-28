@@ -1,0 +1,28 @@
+<mxfile compressed="false" host="Electron">
+  <diagram id="062db42e-b853-4750-8a5d-a6fbd2ee2c7f" name="plantuml">
+    <mxGraphModel dx="2123" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="PlantUmlDocument" link="references/eClassifiers/PlantUmlDocument/index.html" id="536fd264-0744-49a5-b588-23406ee754fb">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="640" y="179.9981461649038" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="DiagramKind" link="references/eClassifiers/DiagramKind/index.html" id="cca8159b-0b85-4a49-a3c2-965d4b378ede">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="640" y="260" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3907a0b9-7da7-428f-a983-2d21853d7179" edge="1" parent="1" source="cca8159b-0b85-4a49-a3c2-965d4b378ede" target="cca8159b-0b85-4a49-a3c2-965d4b378ede">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="PlantUmlDiagram" link="references/eClassifiers/PlantUmlDiagram/index.html" id="c41206b8-a125-4ba2-8d8e-2fc7999ac705">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="640" y="220" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

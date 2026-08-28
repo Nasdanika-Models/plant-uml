@@ -1,0 +1,28 @@
+<mxfile compressed="false" pages="1" type="device">
+    <diagram id="062db42e-b853-4750-8a5d-a6fbd2ee2c7f" name="plantuml">
+        <mxGraphModel arrows="1" connect="1" fold="1" grid="1" gridSize="10" guides="1" math="0" page="1" pageScale="1" shadow="0" tooltips="1">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <object id="536fd264-0744-49a5-b588-23406ee754fb" label="PlantUmlDocument" link="references/eClassifiers/PlantUmlDocument/index.html">
+                    <mxCell parent="1" vertex="1">
+                        <mxGeometry as="geometry" height="30.0" width="120.0" y="231.7281461649038"/>
+                    </mxCell>
+                </object>
+                <object id="cca8159b-0b85-4a49-a3c2-965d4b378ede" label="DiagramKind" link="references/eClassifiers/DiagramKind/index.html">
+                    <mxCell parent="1" vertex="1">
+                        <mxGeometry as="geometry" height="30.0" width="120.0" x="1400.0" y="800.0"/>
+                    </mxCell>
+                </object>
+                <mxCell edge="1" id="3907a0b9-7da7-428f-a983-2d21853d7179" parent="1" source="cca8159b-0b85-4a49-a3c2-965d4b378ede" target="cca8159b-0b85-4a49-a3c2-965d4b378ede">
+                    <mxGeometry as="geometry" relative="1"/>
+                </mxCell>
+                <object id="c41206b8-a125-4ba2-8d8e-2fc7999ac705" label="PlantUmlDiagram" link="references/eClassifiers/PlantUmlDiagram/index.html">
+                    <mxCell parent="1" vertex="1">
+                        <mxGeometry as="geometry" height="30.0" width="120.0" x="1400.0"/>
+                    </mxCell>
+                </object>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
